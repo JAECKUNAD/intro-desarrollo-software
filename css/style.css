@@ -331,10 +331,10 @@ h4{
 }
 h5{
 	font-family: Arial, Helvetica, sans-serif;
-	;
 	color: #fff;
 	font-size: 13px;
 	text-align: center;
+	margin: 3px;
 }
 h6{
 	font-family: Arial, Helvetica, sans-serif;
@@ -730,6 +730,17 @@ section#autor1{
 	margin: 5px;
 }
 #foto_autor1 #datos{
+	font-family: 'Acme', sans-serif;
+	
+	width: 480px;
+	height: 60px;
+	left: 220px;
+	color: blue;
+	font-size: 30px;
+	border-top-color: #000;
+	margin: 5px;
+}
+#foto_autor2 #datos{
 	font-family: 'Acme', sans-serif;
 	
 	width: 480px;
